@@ -83,7 +83,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,css,docker,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,py,react,redux,tailwind,ts,jotai,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,css,docker,express,figma,github,html,java,js,linux,materialui,mongodb,mysql,nextjs,nodejs,py,react,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
@@ -109,7 +109,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kevinuehara&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
